@@ -26,6 +26,8 @@ A playground and showcase repository with machine learning (ML) applications on 
 
 ## References
 
+- [Building a Streamlit and scikit-learn app with ChatGPT](https://blog.streamlit.io/building-a-streamlit-and-scikit-learn-app-with-chatgpt/)
+
 - [Dummy Regressor, Explained: A Visual Guide with Code Examples for Beginners](https://towardsdatascience.com/dummy-regressor-explained-a-visual-guide-with-code-examples-for-beginners-4007c3d16629)
 
 - [Decision Tree Regressor, Explained: A Visual Guide with Code Examples](https://towardsdatascience.com/decision-tree-regressor-explained-a-visual-guide-with-code-examples-fbd2836c3bef)
